@@ -1,1 +1,18 @@
 # week4-grid-lab
+- git add .
+- git commit -m "init project"
+- git push
+- git commit -m "เพิ่มโครงสร้าง HTML พื้นฐาน"
+- git commit -m "เพิ่ม Grid Layout พื้นฐาน"
+- git commit -m "เพิ่ม Media Queries สําหรับ Responsive Design"
+- git commit -m "เพิ่มเนื้อหาจำลองสำหรับทดสอบ Responsive"
+- git commit -m "เพิ่ม CSS Animations"
+- git commit -m "เพิ่ม Hover Effects"
+- git commit -m "init gallery"
+- git commit -m "สร้างโครงสร้าง HTML สําหรับแกลเลอรี่"
+- git commit -m "เพิ่ม Masonry Layout ด้วย CSS Grid"
+- git commit -m "เพิ่ม Media Queries สำหรับ Responsive Gallery"
+- git commit -m "เพิ่ม Hover และ Loading Animations"
+- git commit -m "เพิ่ม Filter Animations"
+- git commit -m "เชื่อมต่อ JavaScript"
+- git push
